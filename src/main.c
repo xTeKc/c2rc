@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdint.h>
 
-int add(int i_one, int i_two) {
-    printf("[C] i_one input is: %i \n", i_one);
-    printf("[C] i_two input is: %i \n", i_two);
+int add(int c_input_one, int c_input_two) {
+    printf("[C] input one is: %i \n", c_input_one);
+    printf("[C] input two is: %i \n", c_input_two);
 
-    return i_one + i_two;
+    return c_input_one + c_input_two;
 }

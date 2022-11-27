@@ -3,7 +3,7 @@ use futures::executor::block_on;
 use std::ffi::c_uint;
 
 extern "C" {
-    fn add(x: c_uint, y: c_uint) -> c_uint;
+    fn add(x_input_one: c_uint, x_input_two: c_uint) -> c_uint;
 }
 
 #[tokio::main]
