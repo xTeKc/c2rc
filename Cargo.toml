@@ -2,7 +2,7 @@
 name = "c2rc"
 version = "0.1.0"
 edition = "2021"
-description = "Add two uints from C to Rust"
+description = "uints from C to Rust"
 authors = ["xTekC"]
 
 [dependencies]
