@@ -1,5 +1,5 @@
 [package]
-name = "c2rc"
+name = "c2rsc"
 version = "0.1.0"
 edition = "2021"
 description = "uints from C to Rust"
