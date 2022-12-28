@@ -1,10 +1,10 @@
-# c2rc
+# c2rsc
 C to Rust CLI
 
 ```
 uints from C to Rust
 
-Usage: c2rc <COMMAND>
+Usage: c2rsc <COMMAND>
 
 Commands:
   add  Input two uints to add
